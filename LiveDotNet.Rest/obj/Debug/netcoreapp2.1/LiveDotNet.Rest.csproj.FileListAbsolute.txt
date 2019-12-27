@@ -1,0 +1,14 @@
+c:\users\walter\Source\Repos\LiveDotNet\LiveDotNet.Rest\bin\Debug\netcoreapp2.1\LiveDotNet.Rest.deps.json
+c:\users\walter\Source\Repos\LiveDotNet\LiveDotNet.Rest\bin\Debug\netcoreapp2.1\LiveDotNet.Rest.runtimeconfig.json
+c:\users\walter\Source\Repos\LiveDotNet\LiveDotNet.Rest\bin\Debug\netcoreapp2.1\LiveDotNet.Rest.runtimeconfig.dev.json
+c:\users\walter\Source\Repos\LiveDotNet\LiveDotNet.Rest\bin\Debug\netcoreapp2.1\LiveDotNet.Rest.dll
+c:\users\walter\Source\Repos\LiveDotNet\LiveDotNet.Rest\bin\Debug\netcoreapp2.1\LiveDotNet.Rest.pdb
+c:\users\walter\Source\Repos\LiveDotNet\LiveDotNet.Rest\obj\Debug\netcoreapp2.1\LiveDotNet.Rest.csprojResolveAssemblyReference.cache
+c:\users\walter\Source\Repos\LiveDotNet\LiveDotNet.Rest\obj\Debug\netcoreapp2.1\LiveDotNet.Rest.csproj.CoreCompileInputs.cache
+c:\users\walter\Source\Repos\LiveDotNet\LiveDotNet.Rest\obj\Debug\netcoreapp2.1\LiveDotNet.Rest.RazorAssemblyInfo.cache
+c:\users\walter\Source\Repos\LiveDotNet\LiveDotNet.Rest\obj\Debug\netcoreapp2.1\LiveDotNet.Rest.RazorAssemblyInfo.cs
+c:\users\walter\Source\Repos\LiveDotNet\LiveDotNet.Rest\obj\Debug\netcoreapp2.1\LiveDotNet.Rest.AssemblyInfoInputs.cache
+c:\users\walter\Source\Repos\LiveDotNet\LiveDotNet.Rest\obj\Debug\netcoreapp2.1\LiveDotNet.Rest.AssemblyInfo.cs
+c:\users\walter\Source\Repos\LiveDotNet\LiveDotNet.Rest\obj\Debug\netcoreapp2.1\LiveDotNet.Rest.RazorTargetAssemblyInfo.cache
+c:\users\walter\Source\Repos\LiveDotNet\LiveDotNet.Rest\obj\Debug\netcoreapp2.1\LiveDotNet.Rest.dll
+c:\users\walter\Source\Repos\LiveDotNet\LiveDotNet.Rest\obj\Debug\netcoreapp2.1\LiveDotNet.Rest.pdb
